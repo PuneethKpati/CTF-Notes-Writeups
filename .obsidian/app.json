@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "fileSortOrder": "byCreatedTime"
+}

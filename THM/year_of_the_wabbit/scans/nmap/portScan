@@ -1,0 +1,14 @@
+# Nmap 7.91 scan initiated Tue Nov  2 00:32:55 2021 as: nmap -p- --min-rate=10000 -vv -oN ./nmap/portScan 10.10.133.24
+Increasing send delay for 10.10.133.24 from 0 to 5 due to 424 out of 1412 dropped probes since last increase.
+Nmap scan report for 10.10.133.24
+Host is up, received syn-ack (0.24s latency).
+Scanned at 2021-11-02 00:32:55 EDT for 20s
+Not shown: 65532 closed ports
+Reason: 65532 conn-refused
+PORT   STATE SERVICE REASON
+21/tcp open  ftp     syn-ack
+22/tcp open  ssh     syn-ack
+80/tcp open  http    syn-ack
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Tue Nov  2 00:33:15 2021 -- 1 IP address (1 host up) scanned in 20.38 seconds

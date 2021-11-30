@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "38b0db692a984287",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe69b352a94898c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "THM/EasyCTF/Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5aa804480dbd7d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a54ec554a4e459d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37e7557cc29cb63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "933bf1e5676a44d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326
+  },
+  "right": {
+    "id": "363c58355f00dbdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e06da90b098e5d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7077ad38bea15b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "THM/EasyCTF/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe69b352a94898c4",
+  "lastOpenFiles": [
+    "THM/EasyCTF/Notes.md",
+    "THM/Mr Robot CTF/Notes.md",
+    "zTemplate/Notes.md",
+    "zTemplate/Attachments.md",
+    "THM/Mr Robot CTF/(.md",
+    "THM/Mr Robot CTF/Attachments/Pasted image 20211122204655.png",
+    "THM/Resources.md",
+    "THM/Mr Robot CTF/Attachments/Pasted image 20211122201849.png",
+    "THM/Nmap/Notes.md",
+    "Pasted image 20211122201402.png"
+  ]
+}
