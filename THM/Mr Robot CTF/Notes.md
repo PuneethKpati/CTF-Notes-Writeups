@@ -19,7 +19,7 @@ Aside from humility and the lack of my ability, here are somethings we learned f
 
 
 # BOX 
-All Attachments seen below will be found in their respective directories (refer to link) or will be in the [[Attachments]] sub-folder.
+All Attachments seen below will be found in their respective directories (refer to link) or will be in the Attachments sub-folder.
 
 ## ENUMERATION
 

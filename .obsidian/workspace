@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THM/EasyCTF/Notes.md",
+            "file": "HTB/Active Boxes/Caring/Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM/EasyCTF/Notes.md",
+                "file": "HTB/Active Boxes/Caring/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "fe69b352a94898c4",
   "lastOpenFiles": [
-    "THM/EasyCTF/Notes.md",
+    "HTB/Active Boxes/Caring/Notes.md",
     "THM/Mr Robot CTF/Notes.md",
+    "THM/EasyCTF/Notes.md",
     "zTemplate/Notes.md",
     "zTemplate/Attachments.md",
     "THM/Mr Robot CTF/(.md",
     "THM/Mr Robot CTF/Attachments/Pasted image 20211122204655.png",
     "THM/Resources.md",
     "THM/Mr Robot CTF/Attachments/Pasted image 20211122201849.png",
-    "THM/Nmap/Notes.md",
-    "Pasted image 20211122201402.png"
+    "THM/Nmap/Notes.md"
   ]
 }
