@@ -4,5 +4,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "readableLineLength": true,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "legacyEditor": false,
+  "livePreview": true
 }

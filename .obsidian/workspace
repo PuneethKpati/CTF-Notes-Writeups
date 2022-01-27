@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fe69b352a94898c4",
+        "id": "1b2fc6b67dc26b72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTB/Active Boxes/Caring/Notes.md",
-            "mode": "source"
+            "file": "PortSwigger/CSRF/Lab 4.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 381
   },
   "right": {
     "id": "363c58355f00dbdd",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Active Boxes/Caring/Notes.md",
+                "file": "PortSwigger/CSRF/Lab 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe69b352a94898c4",
+  "active": "1b2fc6b67dc26b72",
   "lastOpenFiles": [
-    "HTB/Active Boxes/Caring/Notes.md",
-    "THM/Mr Robot CTF/Notes.md",
+    "PortSwigger/CSRF/Lab 4.md",
+    "PortSwigger/CSRF/Lab 3.md",
+    "PortSwigger/CSRF/Lab 2.md",
+    "PortSwigger/CSRF/Lab 1.md",
+    "THM/ColdBox/Notes.md",
     "THM/EasyCTF/Notes.md",
-    "zTemplate/Notes.md",
-    "zTemplate/Attachments.md",
-    "THM/Mr Robot CTF/(.md",
-    "THM/Mr Robot CTF/Attachments/Pasted image 20211122204655.png",
-    "THM/Resources.md",
-    "THM/Mr Robot CTF/Attachments/Pasted image 20211122201849.png",
-    "THM/Nmap/Notes.md"
+    "THM/Mr Robot CTF/Notes.md",
+    "THM/solar_exploiting_log4j/Notes.md",
+    "THM/year_of_the_wabbit/Walkthrough.md",
+    "HTB/Active Boxes/Celt/Notes.md"
   ]
 }
